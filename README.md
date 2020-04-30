@@ -1,0 +1,1 @@
+这是一个测试springcloud-config  配置文件
